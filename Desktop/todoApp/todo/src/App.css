@@ -1,0 +1,150 @@
+.navlink {
+    background-color: black;
+    font-size: 1cm;
+
+}
+.nav3{
+text-align: end;
+font-size: .5cm;
+text-decoration: none;
+margin-left: 30%;
+font-weight: bolder;
+color: yellow;
+}
+.nav2{
+    text-align: end;
+    font-size: .5cm;
+    text-decoration: none;
+    margin-left: 30%;
+    margin-right: 5%;
+    font-weight: bolder;
+
+    }
+
+    .nav1{
+        text-align: end;
+        font-size: .5cm;
+        text-decoration: none;
+        font-weight: bolder;
+        margin-left: 10%;
+        color: violet;
+        }
+
+   .home{
+       margin-top: 0vh;
+       background-color: rgb(236, 220, 220);
+       
+       }     
+
+    .home h1{
+     color: rgb(49, 45, 45);
+     text-align: center;
+     font-style: italic;
+    }
+
+    .footer{
+       background-color: wheat;
+       margin-top: 35vh;
+       text-align: center;
+       font-weight: bolder;
+
+    }
+    .footer small{
+        font-weight: bolder;
+    }
+
+    .image {
+        margin:0 auto;
+        width:450px;
+        height:281px;
+        transition: background-image 1s ease-in-out;
+        background-image:url("/images/Windows%20Logo.jpg");
+      }
+      
+      .image:hover {
+        background-image:url("/images/Turtle.jpg");
+      }
+
+      .recipe{
+          font-size: larger;
+      }
+.btnn{
+    margin-left: 100%;
+
+}
+.form{
+    background-color: black;
+    color: yellow;
+    max-width: 60%;
+    margin-left: 5cm;
+    margin-top: 1cm;
+    text-align: center;
+    margin-bottom: .5cm;
+}
+.contact{
+    background-color: yellow;
+    margin-top: 0vh;
+    
+}
+
+.cards{
+    height: 300px;
+    width:230px;
+    margin-bottom: 1cm;
+    display: flex;
+    border: black;
+    padding: 2px , 2px ;
+    margin-right: 5cm;
+    
+}
+
+.cardimg{
+    height: 200px;
+    width: 190px;
+    border: black;
+    margin-top:0cm;
+}
+
+.cardbody{
+    background-color: black;
+}
+
+.cardtitle{
+    text-align: center;
+    color: lightcoral;
+    background-color: black;
+}
+
+.cardbody{
+    color: lightcoral;
+}
+
+.about{
+    background-color: rgb(236, 220, 220);
+}
+
+.cooks{
+    margin-left: 40%;
+}
+.feedback{
+    background-color:  rgb(236, 220, 220);
+}
+
+.feedback h2{
+    text-align: center;
+    background-color: grey;
+    
+}
+.textarea{
+    margin-top: 2cm;
+    margin-left: 40%;
+  
+
+}
+
+.feedback p{
+    margin-top: 3cm;
+}
+.feedback button{
+    margin-left: 10%;
+}
