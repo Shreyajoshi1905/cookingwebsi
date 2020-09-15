@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cookingwebsi/static/css/main.86db2d03.chunk.css",
+    "main.js": "/cookingwebsi/static/js/main.66f73e88.chunk.js",
+    "main.js.map": "/cookingwebsi/static/js/main.66f73e88.chunk.js.map",
+    "runtime-main.js": "/cookingwebsi/static/js/runtime-main.52c70a31.js",
+    "runtime-main.js.map": "/cookingwebsi/static/js/runtime-main.52c70a31.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/cookingwebsi/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.5635b21f.chunk.js": "/cookingwebsi/static/js/2.5635b21f.chunk.js",
+    "static/js/2.5635b21f.chunk.js.map": "/cookingwebsi/static/js/2.5635b21f.chunk.js.map",
+    "index.html": "/cookingwebsi/index.html",
+    "precache-manifest.0a5772d282e6f20b7b239f3edb73b00d.js": "/cookingwebsi/precache-manifest.0a5772d282e6f20b7b239f3edb73b00d.js",
+    "service-worker.js": "/cookingwebsi/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/cookingwebsi/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.86db2d03.chunk.css.map": "/cookingwebsi/static/css/main.86db2d03.chunk.css.map",
+    "static/js/2.5635b21f.chunk.js.LICENSE.txt": "/cookingwebsi/static/js/2.5635b21f.chunk.js.LICENSE.txt",
+    "static/media/img2.jpg": "/cookingwebsi/static/media/img2.72e332d9.jpg",
+    "static/media/img3.jpg": "/cookingwebsi/static/media/img3.0b91b109.jpg",
+    "static/media/img4.jpg": "/cookingwebsi/static/media/img4.713fe31a.jpg",
+    "static/media/img7.jpg": "/cookingwebsi/static/media/img7.1e719de6.jpg",
+    "static/media/img8.jpg": "/cookingwebsi/static/media/img8.0650fd34.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52c70a31.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.5635b21f.chunk.js",
+    "static/css/main.86db2d03.chunk.css",
+    "static/js/main.66f73e88.chunk.js"
+  ]
+}
